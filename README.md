@@ -17,7 +17,7 @@
 
 ## About Me
 
-Most of what I know about software I learned by shipping it: four hackathon builds in a year, a research pipeline that runs while I sleep, and a calorie tracker with 320 tests.
+Most of what I know about software I learned by shipping it: four hackathon builds in a year and a research pipeline that runs while I sleep.
 
 - I build across the stack: web apps (Next.js), native macOS (Swift), AI products (Claude, Gemini), embedded (Jetson, ESP32)
 - B.S. Applied Mathematics @ **UC San Diego** ('28) · GPA 3.9
