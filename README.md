@@ -23,7 +23,7 @@ Most of what I know about software I learned by shipping it: four hackathon buil
 - B.S. Applied Mathematics @ **UC San Diego** ('28) · GPA 3.9
 - Research Intern @ **APEX Lab, UCSD**, automating computational-chemistry workflows on an HPC cluster
 - **Y Combinator Startup School 2026**: selected for the hand-picked in-person SF cohort
-- Off hours: an autonomous rover and on-device voice apps, both headed for open source soon
+- Off hours: the open-source apps below, plus an autonomous rover still on the bench
 
 ## Highlights
 
@@ -35,6 +35,16 @@ Most of what I know about software I learned by shipping it: four hackathon buil
 | **WatchDog**: live CCTV monitoring and incident-clipping dashboard for CalTrans dispatchers | Drew personal interest from YC president Garry Tan |
 | **[caltrack](https://github.com/Hariharan79/caltrack)**: cloud-synced calorie tracker built end-to-end by supervised autonomous coding agents (320 tests, 92% coverage) | Autonomous-coding stress test |
 | **Open source**: Deno-native ESM import fix for [InsForge](https://github.com/Hariharan79/InsForge)'s self-hosted edge-function runtime | Contributed upstream |
+
+## Shipped
+
+| Project | What it is |
+|---------|------------|
+| **[wisper](https://github.com/Hariharan79/wisper)** | Fully local voice dictation for macOS: Parakeet ASR on the Neural Engine, on-device LLM cleanup via MLX. Nothing you say leaves the machine |
+| **[alfred](https://github.com/Hariharan79/alfred)** | On-device voice agent for macOS built on FoundationModels: wake-word listening through wisper, voice-driven Claude Code and Codex sessions |
+| **[studybuddy](https://github.com/Hariharan79/studybuddy)** | Desktop-pet study app: procedurally generated pixel sprites keep you company while Gemini turns your PDFs into question banks |
+| **[daimon](https://github.com/Hariharan79/daimon)** | Interactive math-lesson engine: lessons render as living visualizations you can poke at, packaged as a desktop app |
+| **[SiteLine](https://github.com/Hariharan79/SiteLine)** | Privacy-first PPE compliance monitoring: computer vision flags missing safety gear on camera feeds without sending footage off-site |
 
 ## Tech Stack
 
