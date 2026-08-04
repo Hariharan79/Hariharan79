@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/banner.svg" width="100%" alt="" />
+
 <a href="https://hari7aran.dev"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F59E0B&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Hari;I+design+and+ship+software;Full-stack+%C2%B7+AI+%C2%B7+Native+%C2%B7+Embedded;Applied+Math+%40+UCSD+'28" alt="Hari Natarajan" /></a>
 
 <p>
@@ -13,7 +15,7 @@
 
 </div>
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ## About Me
 
@@ -59,6 +61,8 @@ Most of what I know about software I learned by shipping it: four hackathon buil
 | **Embedded** | ![NVIDIA Jetson](https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32--S3-E7352C?style=for-the-badge&logo=espressif&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white) ![UART/I2C](https://img.shields.io/badge/UART%20%C2%B7%20I2C-555555?style=for-the-badge) |
 
 </div>
+
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ## GitHub Stats
 
