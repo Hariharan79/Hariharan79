@@ -1,40 +1,40 @@
 <div align="center">
 
-<a href="https://hari7aran.dev"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Hari+%F0%9F%91%8B;I+build+agentic+AI+systems;Drones+%C2%B7+Rovers+%C2%B7+Durable+Agents;Applied+Math+%40+UCSD+'28" alt="Hari Natarajan" /></a>
+<a href="https://hari7aran.dev"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F59E0B&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Hari;I+design+and+ship+software;Full-stack+%C2%B7+AI+%C2%B7+Native+%C2%B7+Embedded;Applied+Math+%40+UCSD+'28" alt="Hari Natarajan" /></a>
 
 <p>
 <a href="https://hari7aran.dev"><img src="https://img.shields.io/badge/hari7aran.dev-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
 <a href="mailto:hnatarajan@ucsd.edu"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<img src="https://img.shields.io/badge/La%20Jolla%2C%20CA-2088FF?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
-<img src="https://komarev.com/ghpvc/?username=Hariharan79&style=for-the-badge&color=58A6FF" alt="Profile views" />
+<img src="https://img.shields.io/badge/La%20Jolla%2C%20CA-555555?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+<img src="https://komarev.com/ghpvc/?username=Hariharan79&style=for-the-badge&color=orange" alt="Profile views" />
 </p>
 
-### 🔎 Open to **SWE & PM internships for Summer 2027**
+### Open to **SWE & PM internships for Summer 2027**
 
 </div>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🎓 B.S. Applied Mathematics @ **UC San Diego** ('28) · GPA 3.9
-- 🤖 I build **agentic AI systems**: drone mission control, autonomous rovers, durable long-horizon agents, and on-device macOS apps
-- 🧪 Research Intern @ **APEX Lab, UCSD**, automating DFT catalyst simulations on an HPC cluster (VASP + Slurm)
-- 🌉 **Y Combinator Startup School 2026**: selected for the hand-picked in-person SF cohort
-- 🔭 Currently building an autonomous rover with safety-arbitrated control and on-device Swift voice agents (going public soon 👀)
+- B.S. Applied Mathematics @ **UC San Diego** ('28) · GPA 3.9
+- I design and ship software end to end: full-stack web apps, AI products, native macOS apps, and embedded systems
+- Research Intern @ **APEX Lab, UCSD**, automating computational-chemistry workflows on an HPC cluster
+- **Y Combinator Startup School 2026**: selected for the hand-picked in-person SF cohort
+- Off hours: an autonomous rover and on-device voice apps, both headed for open source soon
 
-## 🏆 Highlights
+## Highlights
 
-| | Project | Result |
-|:---:|---------|--------|
-| 🥈 | **SkyGuardian**: multi-drone search-and-rescue mission control (YOLO + Gemini live knowledge graph, voice-piloted Tello, ORB-SLAM3 path reconstruction) | **2nd of 150** · Google I/O Hackathon '26 |
-| 🥈 | **[Lattice](https://github.com/Hariharan79/research-agent)**: durable AI agent that plans DFT campaigns on an HPC cluster and auto-recovers from convergence failures | **2nd place** · Vercel Hackathon '26 |
-| 🎯 | **[Argus](https://github.com/Hariharan79/SDxUCSD-Hackathon)**: multi-agent competitor intelligence (3 concurrent Claude agents, SSE-streamed executive briefings in under 40s) | **Top 5** · SDx Hackathon '26 |
-| 🛰 | **WatchDog**: live CCTV monitoring and incident-clipping dashboard for CalTrans dispatchers | Drew personal interest from YC president Garry Tan |
-| 🧪 | **[caltrack](https://github.com/Hariharan79/caltrack)**: cloud-synced calorie tracker built end-to-end by supervised autonomous coding agents (320 tests, 92% coverage) | Autonomous-coding stress test |
-| 🌐 | **Open source**: Deno-native ESM import fix for [InsForge](https://github.com/Hariharan79/InsForge)'s self-hosted edge-function runtime | Contributed upstream |
+| Project | Result |
+|---------|--------|
+| **SkyGuardian**: multi-drone search-and-rescue mission control (YOLO + Gemini live knowledge graph, voice-piloted flight, ORB-SLAM3 path reconstruction) | **2nd of 150** · Google I/O Hackathon '26 |
+| **[Lattice](https://github.com/Hariharan79/research-agent)**: durable AI agent that plans DFT campaigns on an HPC cluster and auto-recovers from convergence failures | **2nd place** · Vercel Hackathon '26 |
+| **[Argus](https://github.com/Hariharan79/SDxUCSD-Hackathon)**: multi-agent competitor intelligence (3 concurrent Claude agents, SSE-streamed executive briefings in under 40s) | **Top 5** · SDx Hackathon '26 |
+| **WatchDog**: live CCTV monitoring and incident-clipping dashboard for CalTrans dispatchers | Drew personal interest from YC president Garry Tan |
+| **[caltrack](https://github.com/Hariharan79/caltrack)**: cloud-synced calorie tracker built end-to-end by supervised autonomous coding agents (320 tests, 92% coverage) | Autonomous-coding stress test |
+| **Open source**: Deno-native ESM import fix for [InsForge](https://github.com/Hariharan79/InsForge)'s self-hosted edge-function runtime | Contributed upstream |
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -48,7 +48,7 @@
 
 </div>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -83,5 +83,3 @@
 </picture>
 
 </div>
-
-<!-- refresh -->
