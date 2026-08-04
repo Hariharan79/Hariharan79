@@ -17,8 +17,10 @@
 
 ## About Me
 
+Most of what I know about software I learned by shipping it: four hackathon builds in a year, a research pipeline that runs while I sleep, and a calorie tracker with 320 tests.
+
+- I build across the stack: web apps (Next.js), native macOS (Swift), AI products (Claude, Gemini), embedded (Jetson, ESP32)
 - B.S. Applied Mathematics @ **UC San Diego** ('28) · GPA 3.9
-- I design and ship software end to end: full-stack web apps, AI products, native macOS apps, and embedded systems
 - Research Intern @ **APEX Lab, UCSD**, automating computational-chemistry workflows on an HPC cluster
 - **Y Combinator Startup School 2026**: selected for the hand-picked in-person SF cohort
 - Off hours: an autonomous rover and on-device voice apps, both headed for open source soon
