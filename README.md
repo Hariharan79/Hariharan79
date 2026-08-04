@@ -31,10 +31,10 @@ Most of what I know about software I learned by shipping it: four hackathon buil
 
 | Project | Result |
 |---------|--------|
-| **SkyGuardian**: multi-drone search-and-rescue mission control (YOLO + Gemini live knowledge graph, voice-piloted flight, ORB-SLAM3 path reconstruction) | **2nd of 150** · Google I/O Hackathon '26 |
+| **[SkyGuardian](https://cerebralvalley.ai/e/google-io-hackathon/hackathon/gallery?project=113)**: multi-drone search-and-rescue mission control (YOLO + Gemini live knowledge graph, voice-piloted flight, ORB-SLAM3 path reconstruction) | **2nd of 150** · Google I/O Hackathon '26 |
 | **[Lattice](https://github.com/Hariharan79/research-agent)**: durable AI agent that plans DFT campaigns, polls Slurm jobs, and auto-recovers from VASP convergence failures | **2nd place** · Vercel Hackathon '26 |
 | **[Argus](https://github.com/Hariharan79/SDxUCSD-Hackathon)**: multi-agent competitor intelligence (3 concurrent Claude agents, SSE-streamed executive briefings in under 40s) | **Top 5** · SDx Hackathon '26 |
-| **WatchDog**: live CCTV monitoring and incident-clipping dashboard for CalTrans dispatchers | Drew personal interest from YC president Garry Tan |
+| **[WatchDog](https://github.com/NewCoder3294/watchdog)**: live CCTV monitoring and incident-clipping dashboard for CalTrans dispatchers | Drew personal interest from YC president Garry Tan |
 | **[caltrack](https://github.com/Hariharan79/caltrack)**: cloud-synced calorie tracker built end-to-end by supervised autonomous coding agents (320 tests, 92% coverage) | Autonomous-coding stress test |
 | **Open source**: Deno-native ESM import fix for [InsForge](https://github.com/Hariharan79/InsForge)'s self-hosted edge-function runtime | Contributed upstream |
 
