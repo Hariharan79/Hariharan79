@@ -2,7 +2,7 @@
 
 <img src="assets/banner.svg" width="100%" alt="" />
 
-<a href="https://hari7aran.dev"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F59E0B&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Hari;I+design+and+ship+software;Full-stack+%C2%B7+AI+%C2%B7+Native+%C2%B7+Embedded;Applied+Math+%40+UCSD+'28" alt="Hari Natarajan" /></a>
+<a href="https://hari7aran.dev"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F59E0B&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Hari;I+design+and+ship+software;Full-stack+%C2%B7+AI+%C2%B7+Native+%C2%B7+Embedded;Applied+Math+%40+UCSD+'29" alt="Hari Natarajan" /></a>
 
 <p>
 <a href="https://hari7aran.dev"><img src="https://img.shields.io/badge/hari7aran.dev-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
@@ -22,7 +22,7 @@
 Most of what I know about software I learned by shipping it: four hackathon builds in the last year, two of them podium finishes.
 
 - I build across the stack: web apps (Next.js), native macOS (Swift), AI products (Claude, Gemini), embedded (Jetson, ESP32)
-- B.S. Applied Mathematics @ **UC San Diego** ('28) · GPA 3.9
+- B.S. Applied Mathematics @ **UC San Diego** ('29) · GPA 3.9
 - Research Intern @ **APEX Lab, UCSD**, automating computational-chemistry workflows on an HPC cluster
 - **Y Combinator Startup School 2026**: selected for the hand-picked in-person SF cohort
 - Off hours: the open-source apps below, plus an autonomous rover still on the bench
